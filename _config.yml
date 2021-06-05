@@ -3,7 +3,7 @@
 
 title: Fpay
 description: Jekyll template for API documentation.
-url: fpay.github.io/
+url: fpay.github.io
 google_analytics_key:
 permalink: pretty
 baseurl:
