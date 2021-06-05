@@ -2,8 +2,8 @@
 # Site
 
 title: Fpay
-description: Documentacion para Integrar comercion con Fpay.
-url: https://example.com
+description: Jekyll template for API documentation.
+url: http://fpay.github.io/
 google_analytics_key:
 permalink: pretty
 baseurl:
